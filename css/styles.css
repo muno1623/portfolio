@@ -1,5 +1,5 @@
 .bg-custom{
-    background-color: #056676;
+    background-color: #1b262c;
 }
 
 html {
@@ -7,19 +7,18 @@ html {
   }
 
 .home{
-    background-color: #a3d2ca;
-    height: 35rem;
+    background: url('../images/bk-image.jpg');
+    background-color: #0f4c75;
 }
 
 .portfolio{
     margin-top: 2rem;
-    background-color: #056676;
-    height: 45rem;
+    background-color: #1b262c;
 }
 
 .profile-pic{
-    padding-top: 2rem;
-    height: 212px;
+    padding-top: 4rem;
+    height: 244px;
     width: 180px;
     display: block;
     margin-left: auto;
@@ -33,6 +32,7 @@ html {
 
 .hero3{
     font-size: 1.5rem;
+    padding-bottom: 8rem;
 }
 
 .font-style
@@ -48,4 +48,40 @@ html {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 3rem;
 }
+
+.about-img{
+    height: 24rem;
+    width: 25.5rem;
+    display: block;
+    padding-bottom: 2rem;
+}
+
+.About{
+    background-color: white;
+    margin-top: 4rem;
+}
+
+.about-font{
+    color:black;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+
+  
+
+  .contact{
+    margin-top: 2rem;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+  .fa-custom{
+    text-align: center; 
+    width: 100%;
+    padding-bottom: 2rem;
+  }
